@@ -1,0 +1,12 @@
+Group Members:
+	Gagandeep Singh:2016037
+	Suraj Prathik Kumar: 2016101
+	Vyshakh: 2016120
+
+How to run the web app:
+	1. Go to the directory(Rumour predictor)
+	2. Run the following commands
+		virtualenv env
+		source env/bin/activate
+		pip install -r requirements.txt
+		python3 app.py
